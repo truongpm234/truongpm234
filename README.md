@@ -75,9 +75,9 @@
 
 <h3 align="center">📫 Contact Me</h3>
 <p align="center">
-  <a href="mailto:<YOUR_EMAIL>"><img src="https://img.shields.io/badge/Gmail-FAAE42?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/<YOUR_FB>"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/<YOUR_LINKEDIN>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:phamminhtruong2032004@gmail.com"><img src="https://img.shields.io/badge/Gmail-FAAE42?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/mtrg234"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/phạm-minh-trường-593085303"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -90,9 +90,9 @@
 <!--
 ## 🧑‍💻 Latest Projects
 
-- [VeterinaryClinicSystem](https://github.com/<YOUR_USERNAME>/VeterinaryClinicSystem) - Multi-role clinic management system.
-- [EVSystem](https://github.com/<YOUR_USERNAME>/EVSystem) - EV Service Center maintenance platform.
-- [UniTasteApp](https://github.com/<YOUR_USERNAME>/UniTasteApp) - F&B social review and AI recommendation.
+- [VeterinaryClinicSystem](https://github.com/truongpm234/VeterinaryClinicSystem) - Multi-role clinic management system.
+- [EVSystem](https://github.com/truongpm234/EVSystem) - EV Service Center maintenance platform.
+- [UniTasteApp](https://github.com/truongpm234/UniTasteApp) - F&B social review and AI recommendation.
 -->
 
 <!-- END -->
