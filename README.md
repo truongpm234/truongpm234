@@ -26,7 +26,6 @@
 </ul>
 
 ---
-
 <h3 align="center">🚀 My Tech Stack</h3>
 
 <p align="center">
@@ -42,13 +41,15 @@
 </p>
 
 <p align="center">
-  <!-- Frameworks / Libraries -->
+  <!-- Frameworks / Libraries / Build Tools -->
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=entity-framework&logoColor=white"/>
   <img src="https://img.shields.io/badge/Razor%20Pages-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-FF0000?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <p align="center">
