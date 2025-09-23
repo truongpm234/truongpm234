@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://jbagy.me/wp-content/uploads/2025/03/Hinh-anh-avatar-shin-cau-be-but-chi-cute-7.jpg" alt="avatar" width="120" style="border-radius:50%;"/><br>
+  <img src="https://jbagy.me/wp-content/uploads/2025/03/Hinh-anh-avatar-shin-cau-be-but-chi-cute-7.jpg" alt="avatar" width="100" style="border-radius:50%;"/><br>
 </p>
 
 <p align="center">
