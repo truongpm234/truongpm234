@@ -84,8 +84,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truongpm234&theme=github_dark" width="400"/>
 </p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongpm234&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=151515&ring=239120&fire=239120&currStreakLabel=239120" height="170"/>
-</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,github,git,azure,dotnet,unity" />
 </p>
