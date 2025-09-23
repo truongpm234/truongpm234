@@ -5,7 +5,7 @@
 
 <!-- Avatar + Social icons -->
 <p align="center">
-  <img src="<https://jbagy.me/wp-content/uploads/2025/03/Hinh-anh-avatar-shin-cau-be-but-chi-cute-7.jpg>" alt="avatar" width="120" style="border-radius:50%;"/><br>
+  <img src="https://jbagy.me/wp-content/uploads/2025/03/Hinh-anh-avatar-shin-cau-be-but-chi-cute-7.jpg" alt="avatar" width="120" style="border-radius:50%;"/><br>
   <a href="mailto:phamminhtruong2032004@gmail.com"><img src="https://img.shields.io/badge/Email-FAAE42?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://facebook.com/mtrg234"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://linkedin.com/in/<YOUR_LINKEDIN>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
