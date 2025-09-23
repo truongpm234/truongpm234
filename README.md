@@ -16,11 +16,11 @@
 
 <h3 align="center">💡 About Me</h3>
 <ul>
-  <li>🌱 Hi, I’m <b>&lt;Truong&gt;</b> – a <b>Software Engineer</b> from Vietnam 🇻🇳</li>
+  <li>🌱 Hi, I’m <b>Truong</b> – a <b>Software Engineer</b> from Vietnam 🇻🇳</li>
   <li>💻 I’m passionate about <b>Backend, Web, Database, and Mobile</b></li>
   <li>🚀 I love building cool things and exploring new tech stacks</li>
   <li>🎯 Currently working on: <b>VeterinaryClinicSystem</b>, <b>EVSystem</b>, <b>UniTasteApp</b></li>
-  <li>📫 How to reach me: <b>&lt;phamminhtruong2032004@gmail.com&gt;</b></li>
+  <li>📫 How to reach me: <b>phamminhtruong2032004@gmail.com</b></li>
 </ul>
 
 ---
