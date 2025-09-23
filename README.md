@@ -77,9 +77,13 @@
 ---
 
 <h3 align="center">💻 C# GitHub Stats & Trophies</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truongpm234&show_icons=true&theme=tokyonight&title_color=239120&icon_color=239120&text_color=9f9f9f&bg_color=151515&hide=issues" height="170"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+<h3 align="center">truongpm234’s C# GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truongpm234&theme=github_dark" width="400"/>
+</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongpm234&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=151515&ring=239120&fire=239120&currStreakLabel=239120" height="170"/>
 </p>
 <p align="center">
