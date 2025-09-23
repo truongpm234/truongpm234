@@ -16,7 +16,7 @@
 
 <h3 align="center">💡 About Me</h3>
 <ul>
-  <li>🌱 Hi, I’m Truong – a <b>Software Engineer</b> from Vietnam 🇻🇳</li>
+  <li>🌱 Hi, I’m Truong – a Software Engineer from Vietnam 🇻🇳</li>
   <li>💻 I’m passionate about <b>Backend, Web, Database, and Mobile</b></li>
   <li>🚀 I love building cool things and exploring new tech stacks</li>
   <li>🎯 Currently working on: <b>VeterinaryClinicSystem</b>, <b>EVSystem</b>, <b>UniTasteApp</b></li>
@@ -68,7 +68,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USERNAME>&theme=radical" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=radical&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=truongpm234&theme=radical&column=7"/>
 </p>
 
 ---
