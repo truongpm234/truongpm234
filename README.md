@@ -64,8 +64,8 @@
 
 <h3 align="center">📈 GitHub Stats & Trophies</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USERNAME>&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=truongpm234&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongpm234&theme=radical" height="170"/>
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=truongpm234&theme=radical&column=7"/>
