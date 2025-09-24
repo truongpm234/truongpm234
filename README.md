@@ -55,6 +55,7 @@
 <p align="center">
   <!-- Databases -->
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 <p align="center">
