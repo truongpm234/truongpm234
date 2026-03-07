@@ -18,7 +18,7 @@
 
 ---
 
-## 🌈 About Me
+## 👨‍💻 About Me
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding gif" />
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 💫 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:phamminhtruong2032004@gmail.com">
@@ -56,26 +56,26 @@
 
 ---
 
-## 🎨 Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Languages
+### 📝 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css&perline=7" />
 </p>
 
-### 🧩 Frameworks & Tools
+### 🛠️ Frameworks & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,unity,docker,git,github,postman,firebase&perline=8" />
 </p>
 
-### 🗄️ Databases & Cloud
+### ☁️ Databases & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,azure,gcp,cloudflare&perline=4" />
 </p>
 
 ---
 
-## 🚀 Focused on C# & .NET
+## 🎯 Focused on C# & .NET
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -89,7 +89,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 <table align="center">
   <tr>
@@ -122,7 +122,7 @@
 
 ---
 
-## 👀 Visitor Counter
+## 👁️ Visitor Counter
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=truongpm234.truongpm234&left_color=1E2028&right_color=F72585&left_text=PROFILE%20VIEWS" />
@@ -130,7 +130,7 @@
 
 ---
 
-## 💌 Contact
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:phamminhtruong2032004@gmail.com">
