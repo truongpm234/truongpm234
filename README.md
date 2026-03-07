@@ -23,7 +23,7 @@
 <img align="right" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding gif" />
 
 - 🎓 I'm **Pham Minh Truong**
-- 🇻🇳 I'm from **Vietnam**
+- <img src="https://flagcdn.com/w20/vn.png" width="16" alt="Vietnam Flag"/> I'm from **Vietnam**
 - 💻 I enjoy building things with **Backend, Web, Database, and Mobile**
 - 🚀 I like turning ideas into real products
 - 🌱 Right now I'm improving my skills in **System Design**, **Cloud**, and **Modern Development**
