@@ -13,7 +13,6 @@
   <a href="https://github.com/truongpm234"><img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
-
 ---
 
 <h3 align="center">💡 About Me</h3>
@@ -29,7 +28,6 @@
 <h3 align="center">🚀 My Tech Stack</h3>
 
 <p align="center">
-  <!-- Programming languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -41,7 +39,6 @@
 </p>
 
 <p align="center">
-  <!-- Frameworks / Libraries / Build Tools -->
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=entity-framework&logoColor=white"/>
@@ -53,13 +50,11 @@
 </p>
 
 <p align="center">
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 <p align="center">
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -70,9 +65,8 @@
 </p>
 
 <p align="center">
-  <!-- APIs & Services -->
   <img src="https://img.shields.io/badge/SMTP%20Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white" alt="SMTP Email"/>
-  <img src="[https://img.shields.io/badge/Google%20Places%20API-4285F4?style=for-the-badge&logo=google&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVDO1hDBr9_NkBAhPUuqhamZjbsif0N3GIEu6-QWnUpA&s)" alt="Google Cloud Console"/>
+  <img src="https://img.shields.io/badge/Google%20Places%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Places API"/>
 </p>
 
 ---
@@ -94,13 +88,3 @@
 </p>
 
 ---
-
-<!--
-## 🧑‍💻 Latest Projects
-
-- [VeterinaryClinicSystem](https://github.com/truongpm234/MES) - Make-to-Order Manufacturing Execution System.
-- [EVSystem](https://github.com/truongpm234/EVSystem) - EV Service Center maintenance platform.
-- [UniTasteApp](https://github.com/truongpm234/UniTasteApp) - F&B social review and AI recommendation.
--->
-
-<!-- END -->
