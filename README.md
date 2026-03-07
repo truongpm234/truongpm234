@@ -1,9 +1,13 @@
+<!-- =========================
+     FUN & YOUTHFUL PORTFOLIO README
+========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=14,2,10,30,15&text=Pham%20Minh%20Truong&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20C#%20%7C%20.NET%20Enthusiast&descAlignY=58&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:ff9a9e,25:fad0c4,50:fbc2eb,75:a18cd1,100:84fab0&text=Pham%20Minh%20Truong&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Creative%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Truong;I+love+code%2C+coffee%2C+and+cool+ideas;Building+fun+and+useful+software+every+day;Welcome+to+my+GitHub+space+%F0%9F%9A%80%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Truong;I+love+code%2C+coffee%2C+and+cool+ideas;Building+fun+and+useful+software+every+day;Welcome+to+my+GitHub+space+%F0%9F%9A%80%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +20,9 @@
 
 ## 🌈 About Me
 
-<img align="right" width="240" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="coding gif" />
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" alt="developer coding gif" />
+</p>
 
 - 🎓 I'm **Pham Minh Truong**
 - 🇻🇳 I'm from **Vietnam**
@@ -28,8 +34,6 @@
   - **UniTasteApp**
   - **VeterinaryClinicSystem**
 - 📫 Contact me at: **phamminhtruong2032004@gmail.com**
-
-<br clear="right"/>
 
 ---
 
@@ -46,7 +50,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/truongpm234">
-    <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -71,16 +75,18 @@
 
 ---
 
-## 🚀 Focused on C# & .NET
+## ✨ Fun Zone
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Always-Learning-00bbf9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CODING%20MOOD-FOCUSED-6c757d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C%23-9d4edd?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAVORITE%20STYLE-CLEAN%20CODE-38b000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ALWAYS-BUILDING%20COOL%20STUFF-00b4d8?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <i>"The best error message is the one that never shows up." — Software Wisdom</i>
+  <b><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i></b><br/>
+  <sub>— Harold Abelson</sub>
 </p>
 
 ---
@@ -109,12 +115,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=truongpm234&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongpm234&layout=compact&theme=radical&hide_border=true&border_radius=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=truongpm234&show_icons=true&theme=radical&hide_border=true&border_radius=12&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongpm234&layout=compact&theme=radical&hide_border=true&border_radius=12&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=truongpm234&theme=radical&hide_border=true&border_radius=15" />
+  <img height="180" src="https://streak-stats.demolab.com?user=truongpm234&theme=radical&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
@@ -126,7 +132,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=truongpm234&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=truongpm234&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -142,7 +148,7 @@
 ## 👀 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=truongpm234&label=PROFILE+VIEWS&color=F72585&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=truongpm234&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
 </p>
 
 ---
@@ -162,5 +168,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=14,2,10,30,15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff9a9e,25:fad0c4,50:fbc2eb,75:a18cd1,100:84fab0" width="100%" />
 </p>
