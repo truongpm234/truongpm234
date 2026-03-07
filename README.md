@@ -1,170 +1,70 @@
-<!-- =========================
-     FUN & YOUTHFUL PORTFOLIO README
-========================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=845EC2,D65DB1,FF9671,FFC75F&height=220&section=header&text=Welcome%20to%20My%20World%20✨&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:ff9a9e,25:fad0c4,50:fbc2eb,75:a18cd1,100:84fab0&text=Pham%20Minh%20Truong&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Creative%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&animation=twinkling" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Truong;I+love+code%2C+coffee%2C+and+cool+ideas;Building+fun+and+useful+software+every+day;Welcome+to+my+GitHub+space+%F0%9F%9A%80%E2%9C%A8" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/From-Vietnam-ff4d6d?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Web%20%7C%20Database-7b2cbf?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Learning%20New%20Tech-00c2ff?style=for-the-badge&logo=bookstack&logoColor=white" />
-</p>
-
----
-
-## 🌈 About Me
-
-<img align="right" width="240" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="coding gif" />
-
-- 🎓 I'm **Pham Minh Truong**
-- 🇻🇳 I'm from **Vietnam**
-- 💻 I enjoy building things with **Backend, Web, Database, and Mobile**
-- 🚀 I like turning ideas into real products
-- 🌱 Right now I'm improving my skills in **System Design**, **Cloud**, and **Modern Development**
-- 📌 Current projects:
-  - **MES**
-  - **UniTasteApp**
-  - **VeterinaryClinicSystem**
-- 📫 Contact me at: **phamminhtruong2032004@gmail.com**
-
-<br clear="right"/>
-
----
-
-## 💫 Connect With Me
-
-<p align="center">
-  <a href="mailto:phamminhtruong2032004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/mtrg234">
-    <img src="https://img.shields.io/badge/Facebook-4D96FF?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/phạm-minh-trường-593085303">
-    <img src="https://img.shields.io/badge/LinkedIn-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/truongpm234">
-    <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=24&pause=1000&color=D65DB1&center=true&vCenter=true&width=600&lines=Hi,+I'm+Truong+🌸;Backend+.NET+Developer+💻;System+Architecture+Enthusiast+⚙️;Turning+Coffee+Into+Code+☕" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-## 🎨 Tech Stack
-
-### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css&perline=7" />
+  <a href="mailto:phamminhtruong2032004@gmail.com"><img src="https://img.shields.io/badge/Email-FF9671?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/phạm-minh-trường-593085303"><img src="https://img.shields.io/badge/LinkedIn-845EC2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/mtrg234"><img src="https://img.shields.io/badge/Facebook-D65DB1?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/truongpm234"><img src="https://img.shields.io/badge/GitHub-2C73D2?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-### 🧩 Frameworks & Tools
+<br>
+
+<h2 align="center">🌈 About Me</h2>
+<div align="center">
+  <img src="https://jbagy.me/wp-content/uploads/2025/03/Hinh-anh-avatar-shin-cau-be-but-chi-cute-7.jpg" alt="Avatar" width="130" style="border-radius: 50%; border: 4px solid #FF9671; box-shadow: 0 8px 20px rgba(255, 150, 113, 0.4); margin-bottom: 15px;"/>
+</div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,unity,docker,git,github,postman,firebase&perline=8" />
+  <i>"Crafting beautiful code and building scalable backend systems."</i>
 </p>
 
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,azure,gcp,cloudflare&perline=4" />
-</p>
-
----
-
-## 🪄 Fun Zone
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Mood-Happy%20%F0%9F%98%8E-ff70a6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Favorite%20Role-Backend%20Dev-70e000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always-Learning%20New%20Stuff-00bbf9?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
+<table align="center" style="border: none; background-color: transparent;">
   <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/MES-FF90E8?style=for-the-badge" /><br><br>
-      Smart manufacturing workflow system with practical business logic and database handling.
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/UniTasteApp-7BDFF2?style=for-the-badge" /><br><br>
-      A modern app idea focused on useful experiences and friendly design.
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/VeterinaryClinicSystem-B2F7EF?style=for-the-badge" /><br><br>
-      Clinic management solution with clear workflows and structured data processing.
+    <td align="left" style="border: none;">
+      <ul>
+        <li>🎓 <b>Education:</b> Software Engineering student at FPT University.</li>
+        <li>💼 <b>Current Focus:</b> Make-to-Order Manufacturing Execution System (MES).</li>
+        <li>🚀 <b>Recent Projects:</b> UniTasteApp & VeterinaryClinicSystem.</li>
+        <li>🎧 <b>Fun Fact:</b> I love exploring new technologies and listening to pop music while coding!</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Stats
-
+<h2 align="center">🎨 My Tech Arsenal</h2>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=truongpm234&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongpm234&layout=compact&theme=radical&hide_border=true&border_radius=15" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=truongpm234&theme=radical&hide_border=true&border_radius=15" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truongpm234&theme=radical" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=truongpm234&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=truongpm234&theme=redical&hide_border=true&radius=16" />
-</p>
-
----
-
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=truongpm234&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
-</p>
-
----
-
-## 💌 Contact
-
-<p align="center">
-  <a href="mailto:phamminhtruong2032004@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-ff4d6d?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/mtrg234">
-    <img src="https://img.shields.io/badge/Message%20on%20Facebook-3b82f6?style=for-the-badge&logo=messenger&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/phạm-minh-trường-593085303">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,c,cpp,js,html,css,bootstrap&theme=light" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=sql,postgres,azure,gcp,firebase,cloudflare&theme=light" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,docker,git,github,postman,unity&theme=light" />
   </a>
 </p>
 
+<br>
+
+<h2 align="center">🌟 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff9a9e,25:fad0c4,50:fbc2eb,75:a18cd1,100:84fab0" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=truongpm234&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truongpm234&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongpm234&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truongpm234&theme=radical" width="48%" alt="Profile Details" />
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFC75F,FF9671,D65DB1,845EC2&height=100&section=footer" width="100%"/>
+</div>
