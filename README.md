@@ -109,24 +109,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=truongpm234&show_icons=true&theme=radical&hide_border=true&border_radius=15&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongpm234&layout=compact&theme=radical&hide_border=true&border_radius=15&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=truongpm234&theme=radical&hide_border=true&border_radius=15&cache_seconds=86400" />
+  <img height="180" src="https://streak-stats.demolab.com?user=truongpm234&theme=radical&hide_border=true&border_radius=15" />
 </p>
 
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truongpm234&theme=radical" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=truongpm234&theme=radical&no-frame=true&row=1&column=6&margin-w=15" />
 </p>
 
 ---
