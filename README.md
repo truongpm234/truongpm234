@@ -21,7 +21,7 @@
   <li>🌱 Hi, I’m Truong – a Software Engineer from Vietnam 🇻🇳</li>
   <li>💻 I’m passionate about <b>Backend, Web, Database, and Mobile</b></li>
   <li>🚀 I love building cool things and exploring new tech stacks</li>
-  <li>🎯 Currently working on: <b>VeterinaryClinicSystem</b>, <b>EVSystem</b>, <b>UniTasteApp</b></li>
+  <li>🎯 Currently working on: <b>MES</b>, <b>UniTasteApp</b>, <b>VeterinaryClinicSystem</b></li>
   <li>📫 How to reach me: <b>phamminhtruong2032004@gmail.com</b></li>
 </ul>
 
@@ -98,7 +98,7 @@
 <!--
 ## 🧑‍💻 Latest Projects
 
-- [VeterinaryClinicSystem](https://github.com/truongpm234/VeterinaryClinicSystem) - Multi-role clinic management system.
+- [VeterinaryClinicSystem](https://github.com/truongpm234/MES) - Make-to-Order Manufacturing Execution System.
 - [EVSystem](https://github.com/truongpm234/EVSystem) - EV Service Center maintenance platform.
 - [UniTasteApp](https://github.com/truongpm234/UniTasteApp) - F&B social review and AI recommendation.
 -->
