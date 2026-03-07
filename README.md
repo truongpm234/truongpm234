@@ -72,7 +72,7 @@
 <p align="center">
   <!-- APIs & Services -->
   <img src="https://img.shields.io/badge/SMTP%20Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white" alt="SMTP Email"/>
-  <img src="https://img.shields.io/badge/Google%20Places%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Places API"/>
+  <img src="[https://img.shields.io/badge/Google%20Places%20API-4285F4?style=for-the-badge&logo=google&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVDO1hDBr9_NkBAhPUuqhamZjbsif0N3GIEu6-QWnUpA&s)" alt="Google Cloud Console"/>
 </p>
 
 ---
