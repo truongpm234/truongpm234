@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/Razor%20Pages-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-FF0000?style=for-the-badge&logo=apache-maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
@@ -66,7 +65,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SMTP%20Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white" alt="SMTP Email"/>
-  <img src="https://img.shields.io/badge/Google%20Places%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Places API"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMek698YjgnhBKtUXZ2W2xrlCchPoFpJGzOA&s" alt="Google Places API" height="28"/>
 </p>
 
 ---
