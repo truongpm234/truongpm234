@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://jbagy.me/wp-content/uploads/2025/03/Hinh-anh-avatar-shin-cau-be-but-chi-cute-7.jpg" alt="Avatar" width="140" style="border-radius: 50%; border: 4px solid #F72585; box-shadow: 0 0 15px rgba(247, 37, 133, 0.4); margin-bottom: 10px;"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/From-Vietnam-ff4d6d?style=for-the-badge&logo=googleearth&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Web%20%7C%20Database-7b2cbf?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to-Learning%20New%20Tech-00c2ff?style=for-the-badge&logo=bookstack&logoColor=white" />
@@ -16,7 +20,7 @@
 
 ## 🌈 About Me
 
-<img align="right" width="240" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="coding gif" />
+<img align="right" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding gif" />
 
 - 🎓 I'm **Pham Minh Truong**
 - 🇻🇳 I'm from **Vietnam**
