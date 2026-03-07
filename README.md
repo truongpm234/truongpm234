@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SMTP%20Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white" alt="SMTP Email"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMek698YjgnhBKtUXZ2W2xrlCchPoFpJGzOA&s" alt="Google Places API" height="28"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 </p>
 
 ---
