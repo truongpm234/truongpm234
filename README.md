@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Truong;I+love+code%2C+coffee%2C+and+cool+ideas;Building+robust+and+scalable+software;Welcome+to+my+GitHub+space+%F0%9F%9A%80%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Truong;Backend+Developer+passionate+about+.NET+and+scalable+systems;Building+robust+backend+solutions+for+real+problems;Welcome+to+my+GitHub+space+%F0%9F%9A%80%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,16 +22,17 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding gif" />
 
-- 🎓 I'm **Pham Minh Truong**
-- 📍 I'm from **Vietnam** <img src="https://flagcdn.com/w20/vn.png" width="18" align="absmiddle" alt="Vietnam Flag"/>
-- 💻 I enjoy building things with **Backend, Web, Database, and Mobile**
-- 🚀 I like turning ideas into real products
-- 🌱 Right now I'm improving my skills in **System Design**, **Cloud**, and **Modern Development**
-- 📌 Current projects:
-  - **MES**
-  - **UniTasteApp**
-  - **VeterinaryClinicSystem**
-- 📫 Contact me via: **[Email](mailto:phamminhtruong2032004@gmail.com)**
+* 🎓 I'm **Pham Minh Truong**
+* 📍 I'm from **Vietnam** <img src="https://flagcdn.com/w20/vn.png" width="18" align="absmiddle" alt="Vietnam Flag"/>
+* 💻 I enjoy building things with **Backend, Web, Database, and scalable system workflows**
+* 🚀 I like turning ideas into real products that solve operational problems
+* 🌱 Right now I'm improving my skills in **System Design**, **Cloud**, and **Modern Backend Development**
+* 📌 Current projects:
+
+  * **MMES**
+  * **UniTasteApp**
+  * **Claim Request Management System**
+* 📫 Contact me via: **[Email](mailto:phamminhtruong2032004@gmail.com)**
 
 <br clear="right"/>
 
@@ -59,18 +60,39 @@
 ## 💻 Tech Stack
 
 ### 📝 Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cs,java,html,css&perline=4" />
 </p>
 
-### 🛠️ Frameworks & Tools
+### 🛠️ Frameworks, Backend & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,unity,docker,git,github,postman,firebase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,docker,git,github,postman,firebase&perline=7" />
 </p>
 
 ### ☁️ Databases & Cloud
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,azure,gcp,cloudflare&perline=4" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,azure,gcp,cloudflare,supabase&perline=6" />
+</p>
+
+### 🧩 Architecture & Backend Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RESTful%20API-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSocket-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-10b981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Layered%20Architecture-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Monolithic-ef4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-6366f1?style=for-the-badge" />
+</p>
+
+### 📊 Other Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -94,16 +116,16 @@
 <table align="center">
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/MES-FF90E8?style=for-the-badge" /><br><br>
-      Smart manufacturing workflow system with practical business logic and database handling.
+      <img src="https://img.shields.io/badge/MMES-FF90E8?style=for-the-badge" /><br><br>
+      Web-based manufacturing execution system for packaging businesses, focused on quotation, planning, scheduling, execution tracking, and delivery workflows.
     </td>
     <td width="33%" align="center">
       <img src="https://img.shields.io/badge/UniTasteApp-7BDFF2?style=for-the-badge" /><br><br>
-      A modern app idea focused on useful experiences and friendly design.
+      Microservices-based food discovery and restaurant platform with social interaction, online payment, and real-time communication features.
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/VeterinaryClinicSystem-B2F7EF?style=for-the-badge" /><br><br>
-      Clinic management solution with clear workflows and structured data processing.
+      <img src="https://img.shields.io/badge/ClaimRequest-F9C74F?style=for-the-badge" /><br><br>
+      Internal claim workflow system that digitalizes submission, approval, reminders, and audit tracking to reduce manual follow-up and fragmented handling.
     </td>
   </tr>
 </table>
