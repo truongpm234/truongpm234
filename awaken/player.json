@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-13T07:52:45.329Z",
+  "level": 13,
+  "overall": "B",
+  "stats": {
+    "STR": "S",
+    "AGI": "SS",
+    "INT": "E",
+    "VIT": "D",
+    "LUK": "A",
+    "CHA": "E"
+  },
+  "achievements": {
+    "pull-shark": 2,
+    "quickdraw": 2,
+    "yolo": 3,
+    "relentless": 2,
+    "unbroken": 1,
+    "night-owl": 1,
+    "early-bird": 0,
+    "weekend-warrior": 1,
+    "gate-opener": 0,
+    "raider": 1,
+    "flawless": 2,
+    "healer": 0,
+    "polyglot": 0,
+    "star-collector": 0,
+    "beacon": 0,
+    "guild-hopper": 0,
+    "veteran": 1,
+    "berserker": 2,
+    "diligent": 1,
+    "daily-grinder": 0,
+    "perfect-week": 0,
+    "quest-hunter": 0,
+    "boss-slayer": 0,
+    "escape-artist": 0,
+    "collector": 0
+  },
+  "events": [],
+  "quests": null
+}
