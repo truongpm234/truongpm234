@@ -35,29 +35,29 @@
     <td width="33%" valign="top">
       <h3 align="center">🏭 Packaging MES (MMES)</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Role-Backend%20Lead-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pika%20Tech%20%26%20Analysis-FPTU%20Thesis-0ea5e9?style=flat-square" />
         <img src="https://img.shields.io/badge/.NET%208-PostgreSQL-blue?style=flat-square" />
       </p>
-      <p>Hệ thống điều hành sản xuất bao bì: số hóa báo giá, hoạch định vật tư, lập lịch sản xuất, theo dõi tiến độ và giao hàng theo thời gian thực.</p>
+      <p>Đồ án tốt nghiệp triển khai cho doanh nghiệp <b>Pika Tech and Analysis</b> tại FPTU: số hóa báo giá, hoạch định vật tư, lập lịch sản xuất và theo dõi tiến độ bao bì.</p>
       <p align="center"><code>ASP.NET Core</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code> · <code>Hangfire</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🍽️ UniTaste Platform</h3>
+      <h3 align="center">🍽️ UniTaste Startup</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Architecture-Microservices-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/FPTU%20Startup-Microservices-8b5cf6?style=flat-square" />
         <img src="https://img.shields.io/badge/API-Ocelot%20Gateway-indigo?style=flat-square" />
       </p>
-      <p>Nền tảng ẩm thực Microservices: tích hợp Google Places sync, mạng xã hội chia sẻ ẩm thực, cổng thanh toán trực tuyến và chat real-time.</p>
+      <p>Dự án khởi nghiệp tại <b>FPT University</b>: nền tảng ẩm thực Microservices tích hợp Google Places sync, mạng xã hội ẩm thực, thanh toán VNPAY và chat real-time.</p>
       <p align="center"><code>Microservices</code> · <code>SignalR</code> · <code>VNPAY</code> · <code>SQL Server</code> · <code>React</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">⚡ Embedded & IoT Solutions</h3>
+      <h3 align="center">⚡ Embedded C++ & Claim System</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Core-C%2B%2B%20%2F%20C-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hardware-ESP32%20%7C%20STM32-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dai%20Dung%20Corp-BE%20%26%20Embedded-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/FPT%20Software-Claim%20System-success?style=flat-square" />
       </p>
-      <p>Giải pháp phần cứng & firmware nhúng: lập trình vi điều khiển, tối ưu bộ nhớ, đọc cảm biến, OCR nhãn thiết bị công nghiệp kết nối Backend API.</p>
-      <p align="center"><code>C++</code> · <code>ESP32</code> · <code>STM32</code> · <code>FreeRTOS</code> · <code>PlatformIO</code></p>
+      <p>Phát triển Backend & giải pháp nhúng C++ tại <b>Dai Dung Corp</b>; xây dựng hệ thống <b>Claim Request System</b> tự động hóa quy trình duyệt & audit tại <b>FPT Software</b>.</p>
+      <p align="center"><code>C++</code> · <code>.NET 8</code> · <code>ESP32</code> · <code>STM32</code> · <code>SQL Server</code></p>
     </td>
   </tr>
 </table>

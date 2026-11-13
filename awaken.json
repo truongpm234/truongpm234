@@ -25,24 +25,24 @@
   },
   "career": [
     {
-      "role": "Backend & Embedded Eng",
+      "role": "BE & Embedded Developer",
       "org": "Dai Dung Corp",
-      "years": "11/26 – now",
+      "years": "11/2026 – now",
       "current": true
     },
     {
-      "role": ".NET Backend Dev",
-      "org": "Packaging MES",
+      "role": "Packaging MES · Thesis",
+      "org": "Pika Tech & Analysis · FPTU",
       "years": "10/25 – 06/26"
     },
     {
-      "role": "Backend Developer",
-      "org": "UniTaste & Claims",
-      "years": "07/25 – 09/25"
+      "role": "UniTaste Startup Project",
+      "org": "FPT University (FPTU)",
+      "years": "07/25 – 10/25"
     },
     {
-      "role": "Software Engineering",
-      "org": "FPT University",
+      "role": "Claim Request System",
+      "org": "FPT Software",
       "years": "01/25 – 07/25"
     }
   ],
@@ -108,10 +108,6 @@
     [
       "bio",
       "career"
-    ],
-    [
-      "web",
-      "skills"
     ],
     [
       "arsenal",
