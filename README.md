@@ -32,8 +32,8 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🏭 Packaging MES (MMES)</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🏭 MES </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Pika%20Tech%20%26%20Analysis-FPTU%20Thesis-0ea5e9?style=flat-square" />
         <img src="https://img.shields.io/badge/.NET%208-PostgreSQL-blue?style=flat-square" />
@@ -41,7 +41,7 @@
       <p>A graduation project developed for the company <b>Pika Tech and Analysis</b> at FPTU, covering the digitization of price quotes, materials planning, production scheduling, and the tracking of packaging progress.</p>
       <p align="center"><code>ASP.NET Core</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code> · <code>Hangfire</code></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">🍽️ UniTaste</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FPTU%20Startup-Microservices-8b5cf6?style=flat-square" />
@@ -50,14 +50,25 @@
       <p>A startup project at <b>FPT University</b>: a Microservices-based food platform integrating Google Places sync, a social network for sharing culinary experiences, an online payment gateway, and real-time chat.</p>
       <p align="center"><code>Microservices</code> · <code>SignalR</code> · <code>VNPAY</code> · <code>SQL Server</code> · <code>React</code></p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">⚡ Embedded C++ & Claim System</h3>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 Claim Request System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FPT%20Software-Internal%20System-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/.NET%208-Razor%20Pages-blue?style=flat-square" />
+      </p>
+      <p>An internal claim workflow system developed at <b>FPT Software</b> that centralizes submission, review, approval history, automated email reminders, and audit tracking.</p>
+      <p align="center"><code>.NET 8</code> · <code>ASP.NET Core</code> · <code>EF Core</code> · <code>SQL Server</code> · <code>Hangfire</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Embedded C++ Solutions</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Dai%20Dung%20Corp-BE%20%26%20Embedded-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/FPT%20Software-Claim%20System-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Hardware-ESP32%20%7C%20STM32-success?style=flat-square" />
       </p>
-      <p>Backend development and embedded C++ solutions at <b>Dai Dung Corp</b>; development of a <b>Claim Request System</b> to automate approval and audit processes at <b>FPT Software</b>.</p>
-      <p align="center"><code>C++</code> · <code>.NET 8</code> · <code>ESP32</code> · <code>STM32</code> · <code>SQL Server</code></p>
+      <p>Backend development and embedded C++ firmware solutions at <b>Dai Dung Corp</b>, focusing on microcontroller programming, hardware integration, and industrial automation workflows.</p>
+      <p align="center"><code>C++</code> · <code>C</code> · <code>ESP32</code> · <code>STM32</code> · <code>PlatformIO</code></p>
     </td>
   </tr>
 </table>
