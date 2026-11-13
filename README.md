@@ -38,16 +38,16 @@
         <img src="https://img.shields.io/badge/Pika%20Tech%20%26%20Analysis-FPTU%20Thesis-0ea5e9?style=flat-square" />
         <img src="https://img.shields.io/badge/.NET%208-PostgreSQL-blue?style=flat-square" />
       </p>
-      <p>Đồ án tốt nghiệp triển khai cho doanh nghiệp <b>Pika Tech and Analysis</b> tại FPTU: số hóa báo giá, hoạch định vật tư, lập lịch sản xuất và theo dõi tiến độ bao bì.</p>
+      <p>A graduation project developed for the company <b>Pika Tech and Analysis</b> at FPTU, covering the digitization of price quotes, materials planning, production scheduling, and the tracking of packaging progress.</p>
       <p align="center"><code>ASP.NET Core</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code> · <code>Hangfire</code></p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🍽️ UniTaste Startup</h3>
+      <h3 align="center">🍽️ UniTaste</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FPTU%20Startup-Microservices-8b5cf6?style=flat-square" />
         <img src="https://img.shields.io/badge/API-Ocelot%20Gateway-indigo?style=flat-square" />
       </p>
-      <p>Dự án khởi nghiệp tại <b>FPT University</b>: nền tảng ẩm thực Microservices tích hợp Google Places sync, mạng xã hội ẩm thực, thanh toán VNPAY và chat real-time.</p>
+      <p>A startup project at <b>FPT University</b>: a Microservices-based food platform integrating Google Places sync, a social network for sharing culinary experiences, an online payment gateway, and real-time chat.</p>
       <p align="center"><code>Microservices</code> · <code>SignalR</code> · <code>VNPAY</code> · <code>SQL Server</code> · <code>React</code></p>
     </td>
     <td width="33%" valign="top">
@@ -56,7 +56,7 @@
         <img src="https://img.shields.io/badge/Dai%20Dung%20Corp-BE%20%26%20Embedded-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/FPT%20Software-Claim%20System-success?style=flat-square" />
       </p>
-      <p>Phát triển Backend & giải pháp nhúng C++ tại <b>Dai Dung Corp</b>; xây dựng hệ thống <b>Claim Request System</b> tự động hóa quy trình duyệt & audit tại <b>FPT Software</b>.</p>
+      <p>Backend development and embedded C++ solutions at <b>Dai Dung Corp</b>; development of a <b>Claim Request System</b> to automate approval and audit processes at <b>FPT Software</b>.</p>
       <p align="center"><code>C++</code> · <code>.NET 8</code> · <code>ESP32</code> · <code>STM32</code> · <code>SQL Server</code></p>
     </td>
   </tr>
