@@ -33,7 +33,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏭 MES </h3>
+      <h3 align="center">🏭 AMMS </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Pika%20Tech%20%26%20Analysis-FPTU%20Thesis-0ea5e9?style=flat-square" />
         <img src="https://img.shields.io/badge/.NET%208-PostgreSQL-blue?style=flat-square" />
@@ -75,6 +75,5 @@
 
 <div align="center">
 
-<sub>Drawn every night by <a href="https://git-profile-awaken.vercel.app">Git Profile Awaken</a> · Auto-synced at 00:10 (UTC+7). Ranks are percentiles among regular GitHub players.</sub>
 
 </div>
