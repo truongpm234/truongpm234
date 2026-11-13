@@ -1,14 +1,23 @@
 <div align="center">
 
-# Phạm Minh Trường · truongpm234
+# Pham Minh Truong · truongpm234
 
-**Backend & Embedded C++ Developer · C# / .NET & C++** · Tập đoàn Đại Dũng - Dai Dung Corp · Vietnam (UTC+7)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+%26+Embedded+C%2B%2B+Developer;Specializing+in+.NET%2C+Microservices+%26+Embedded+Firmware;Building+scalable+MES%2C+Clean+Architecture+%26+Real-time+Workflows;Working+at+Dai+Dung+Corp+%C2%B7+Ho+Chi+Minh+City%2C+Vietnam" alt="Typing SVG" />
+</p>
 
-[Email](mailto:phamminhtruong2032004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ph%E1%BA%A1m-minh-tr%C6%B0%E1%BB%9Dng-593085303) · [Facebook](https://www.facebook.com/mtrg234) · [GitHub](https://github.com/truongpm234)
+**Backend & Embedded C++ Developer · C# / .NET & C++** · Dai Dung Corp · Vietnam
+
+[Email](mailto:truongpm234@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ph%E1%BA%A1m-minh-tr%C6%B0%E1%BB%9Dng-593085303) · [Portfolio](https://porfolio-orpin-seven.vercel.app/) · [Facebook](https://www.facebook.com/mtrg234) · [GitHub](https://github.com/truongpm234)
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=truongpm234.truongpm234&left_color=0f172a&right_color=3b82f6&left_text=PROFILE%20VIEWS" alt="Profile Views" />
+<p align="center">
+  <a href="https://porfolio-orpin-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Focus-.NET%20%7C%20C%2B%2B%20%7C%20Embedded-6366f1?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Work-Dai%20Dung%20Corp-10b981?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=truongpm234.truongpm234&left_color=0f172a&right_color=38bdf8&left_text=PROFILE%20VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -18,6 +27,40 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/bento-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/bento-light.svg"><img src="awaken/bento-dark.svg" width="100%" alt="truongpm234: bento profile"></picture>
 </p>
 <!-- AWAKEN:END -->
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🏭 Packaging MES (MMES)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Role-Backend%20Lead-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/.NET%208-PostgreSQL-blue?style=flat-square" />
+      </p>
+      <p>Hệ thống điều hành sản xuất bao bì: số hóa báo giá, hoạch định vật tư, lập lịch sản xuất, theo dõi tiến độ và giao hàng theo thời gian thực.</p>
+      <p align="center"><code>ASP.NET Core</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code> · <code>Hangfire</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🍽️ UniTaste Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Architecture-Microservices-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/API-Ocelot%20Gateway-indigo?style=flat-square" />
+      </p>
+      <p>Nền tảng ẩm thực Microservices: tích hợp Google Places sync, mạng xã hội chia sẻ ẩm thực, cổng thanh toán trực tuyến và chat real-time.</p>
+      <p align="center"><code>Microservices</code> · <code>SignalR</code> · <code>VNPAY</code> · <code>SQL Server</code> · <code>React</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚡ Embedded & IoT Solutions</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Core-C%2B%2B%20%2F%20C-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hardware-ESP32%20%7C%20STM32-success?style=flat-square" />
+      </p>
+      <p>Giải pháp phần cứng & firmware nhúng: lập trình vi điều khiển, tối ưu bộ nhớ, đọc cảm biến, OCR nhãn thiết bị công nghiệp kết nối Backend API.</p>
+      <p align="center"><code>C++</code> · <code>ESP32</code> · <code>STM32</code> · <code>FreeRTOS</code> · <code>PlatformIO</code></p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 

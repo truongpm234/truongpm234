@@ -13,49 +13,49 @@
     "lines": [
       "Player truongpm234 has logged in.",
       "Backend & Embedded C++ Developer · C# / .NET & C++",
-      "Working at Tập đoàn Đại Dũng - Dai Dung Corp",
+      "Working at Dai Dung Corp",
       "Building scalable backend systems & embedded solutions"
     ]
   },
   "bio": {
     "role": "Backend & Embedded C++ Developer",
     "focus": ".NET, Embedded C++, Web & Databases",
-    "location": "Tập đoàn Đại Dũng - Dai Dung Corp",
-    "about": "Software Engineer at Tập đoàn Đại Dũng (Dai Dung Corp). Building scalable .NET/C# backends, MES/ERP workflows, microservices & Embedded C++ systems."
+    "location": "Dai Dung Corporation - DDC",
+    "about": "Software Engineer at Dai Dung Corporation. Building scalable .NET/C# backends, MES/ERP workflows, microservices & Embedded C++ systems."
   },
   "career": [
     {
-      "role": "Backend & Embedded Engineer",
-      "org": "Dai Dung Corp · Đại Dũng",
-      "years": "2026 – now",
+      "role": "Backend & Embedded Eng",
+      "org": "Dai Dung Corp",
+      "years": "11/26 – now",
       "current": true
     },
     {
-      "role": ".NET Backend Developer",
-      "org": "AMMS · Packaging MES",
-      "years": "2025 – 2026"
+      "role": ".NET Backend Dev",
+      "org": "Packaging MES",
+      "years": "10/25 – 06/26"
     },
     {
       "role": "Backend Developer",
-      "org": "UniTasteApp & Claim System",
-      "years": "2025"
+      "org": "UniTaste & Claims",
+      "years": "07/25 – 09/25"
     },
     {
       "role": "Software Engineering",
       "org": "FPT University",
-      "years": "2022 – 2026"
+      "years": "01/25 – 07/25"
     }
   ],
   "socials": [
     {
       "type": "email",
-      "url": "mailto:phamminhtruong2032004@gmail.com",
-      "label": "phamminhtruong2032004@gmail.com"
+      "url": "mailto:truongpm234@gmail.com",
+      "label": "truongpm234@gmail.com"
     },
     {
       "type": "linkedin",
       "url": "https://www.linkedin.com/in/ph%E1%BA%A1m-minh-tr%C6%B0%E1%BB%9Dng-593085303",
-      "label": "Phạm Minh Trường"
+      "label": "Pham Minh Truong"
     },
     {
       "type": "facebook",
@@ -106,20 +106,19 @@
   ],
   "bento": [
     [
-      "hunter"
+      "bio",
+      "career"
     ],
     [
-      "bio",
-      "career",
-      "web"
+      "web",
+      "skills"
     ],
     [
       "arsenal",
       "daily"
     ],
     [
-      "activity",
-      "oracle"
+      "activity"
     ],
     [
       "spotlight",
