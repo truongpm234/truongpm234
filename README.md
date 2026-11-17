@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+%26+Embedded+C%2B%2B+Developer;Specializing+in+.NET%2C+Microservices+%26+Embedded+Firmware;Building+scalable+MES%2C+Clean+Architecture+%26+Real-time+Workflows;Working+at+Dai+Dung+Corp+%C2%B7+Ho+Chi+Minh+City%2C+Vietnam" alt="Typing SVG" />
 </p>
 
-**Backend & Embedded Developer · C# / .NET & C++** · **Dai Dung Corp · Vietnam**
+**Backend & Embedded Developer** · **Dai Dung Corp · Vietnam**
 
 [Email](mailto:truongpm234@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ph%E1%BA%A1m-minh-tr%C6%B0%E1%BB%9Dng-593085303) · [Portfolio](https://porfolio-orpin-seven.vercel.app/) · [Facebook](https://www.facebook.com/mtrg234) · [GitHub](https://github.com/truongpm234)
 
