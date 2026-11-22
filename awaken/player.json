@@ -222,6 +222,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-11-22",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-11-21",
         "cleared": 3,
         "total": 3
@@ -238,7 +243,7 @@
       }
     ],
     "perfectDays": 1,
-    "run": 1,
+    "run": 0,
     "bestRun": 1,
     "questsDone": 6,
     "bosses": [
@@ -252,5 +257,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-21T22:10:09.405Z"
+  "syncedAt": "2026-11-22T22:26:35.661Z"
 }
